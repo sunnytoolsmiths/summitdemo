@@ -1,0 +1,25 @@
+_id: req_af34c35d95ce434290cc551788b9baf5
+type: Request
+parentId: wrk_119eeb17671c4ec6bfeb75ce1618841a
+modified: 1663692756789
+created: 1652892773389
+url: ""
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_69e3326ace054546b9264184db23ff23
+    name: apikey
+    value: KB0o2wdpIu0kDpwFhIq3mP3B0O7FaIxR
+    description: ""
+authentication: {}
+metaSortKey: -1652892773389
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
